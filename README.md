@@ -1,7 +1,6 @@
 # Managing Hierarchies
 
 Practice for defining and implementing classes that use inheritance. The class inheritance of this project is visualized below:
-
 ![image](./readme_assets/1.png)
 
 ### Prerequisites
@@ -18,6 +17,8 @@ sample_output.txt
 ```
 
 These test the program's ability to create objects of the leaf classes (Cluster and Personal_surveillance_device) and tests the ability to set member variables and run member functions.
+
+When using the console for this program, although "Cluster" corresponds to "cluster," "Personal_surveillance_device" corresponds to "phone." This was a joke on the part of the professor who prepared this project.
 
 ## Built With
 
