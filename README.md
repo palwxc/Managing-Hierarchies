@@ -2,7 +2,7 @@
 
 Practice for defining and implementing classes that use inheritance. The class inheritance of this project is visualized below:
 
-![image] (./readme_assets/1.png)
+![image](./readme_assets/1.png)
 
 ### Prerequisites
 
